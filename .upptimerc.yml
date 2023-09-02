@@ -20,8 +20,8 @@ status-website:
   cname: https://github.com/Digitalbil/Website-Watcher
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  name: Website Watcher
+  introTitle: "Welcome to my new website status page that monitors websites 24/7"
   introMessage: Bookmark this page and check it as often as you like to get a realtime status indication for your website
   navbar:
     - title: Status
